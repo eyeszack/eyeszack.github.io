@@ -1,7 +1,8 @@
 ## Have a look at some of my personal projects.
 
-My open source projects are listed here:
+As I start to "release" my open source projects, they will be listed here.
 
-### diesel-engine 
+### diesel engine 
 
-<a href="https://eyeszack.github.io/diesel-engine"><span><img src="images/octocat-icon.png"/></span></a> A simple framework for building DSLs with Groovy.
+<a href="https://eyeszack.github.io/diesel-engine"><span><img src="images/octocat-icon.png"/>View Project</span></a>
+A simple framework for building DSLs with Groovy.
