@@ -4,4 +4,4 @@ My open source projects are listed here:
 
 ### diesel-engine 
 
-A simple framework for building DSLs with Groovy. <a href="https://eyeszack.github.io/diesel-engine"><span><img src="images/octocat-icon.png"/></span></a>
+<a href="https://eyeszack.github.io/diesel-engine"><span><img src="images/octocat-icon.png"/></span></a> A simple framework for building DSLs with Groovy.
