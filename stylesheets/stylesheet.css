@@ -456,7 +456,7 @@ header {
 }
 
 header h1 {
-  width: 777px;
+  width: 540px;
   margin-top: 0;
   margin-bottom: 0.2em;
   font-size: 72px;
@@ -467,7 +467,7 @@ header h1 {
 }
 
 header h2 {
-  width: 777px;
+  width: 540px;
   margin-top: 0;
   margin-bottom: 0;
   font-size: 26px;
@@ -479,7 +479,7 @@ header h2 {
 
 .inner {
   position: relative;
-  width: 960px;
+  width: 940px;
   margin: 0 auto;
 }
 
@@ -490,7 +490,7 @@ header h2 {
 
 #main-content {
   float: left;
-  width: 777px;
+  width: 690px;
 }
 
 #main-content img {
@@ -499,7 +499,7 @@ header h2 {
 
 aside#sidebar {
   float: right;
-  width: 133px;
+  width: 200px;
   min-height: 504px;
   padding-left: 20px;
   font-size: 12px;
@@ -510,7 +510,6 @@ aside#sidebar {
 aside#sidebar p.repo-owner,
 aside#sidebar p.repo-owner a {
   font-weight: bold;
-  width: 250px;
 }
 
 #downloads {
@@ -544,14 +543,6 @@ aside a.button {
   margin-bottom: 20px;
   font-size: 21px;
   background: transparent url(../images/download-button.png) 0 0 no-repeat;
-}
-aside a.view {
-  display: block;
-  width: 138px;
-  padding-left: 64px;
-  margin-bottom: 20px;
-  font-size: 21px;
-  background: transparent url(../images/view-button.png) 0 0 no-repeat;
 }
 
 code, pre {
